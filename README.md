@@ -42,7 +42,7 @@ I’m a cybersecurity enthusiast and back-end developer with a passion for build
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://en.m.wikipedia.org/wiki/File:Seal_of_the_U.S._National_Security_Agency.svg" align="center" style="width: 100%" />
+<img src="[National Security Agency](https://en.m.wikipedia.org/wiki/File:Seal_of_the_U.S._National_Security_Agency.svg)" align="center" style="width: 100%" />
 </div>  
 
 
