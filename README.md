@@ -19,7 +19,7 @@
 
 ### Glad to see you here!  
 About Me:
-I’m a cybersecurity enthusiast and back-end developer with a passion for building secure and resilient systems. With experience in creating robust backends and a deep understanding of system design, security, and optimization, I focus on protecting applications and data from evolving threats. I frequently blog about cybersecurity, and advanced technologies. 
+I’m a cybersecurity enthusiast and back-end developer PHP with a passion for building secure and resilient systems. With experience in creating robust backends and a deep understanding of system design, security, and optimization, I focus on protecting applications and data from evolving threats. I frequently blog about cybersecurity, and advanced technologies. 
 
 <br/>  
 
